@@ -29,9 +29,7 @@ Los datos originales fueron extraídos del portal oficial de datos abiertos de P
 ## 🖼️ Visualizaciones del Proyecto
 
 ### Análisis de Cobertura (Excel)
-*(Aquí puedes insertar tu imagen del gráfico de barras de Excel)*
-![Gráfico de Cobertura](https://tu-link-de-imagen-aqui.com/grafico.png)
+![Gráfico de Cobertura](images/graficos_y_tablas.png)
 
 ### Consultas de Rentabilidad (SQL)
-*(Aquí puedes insertar una captura de tu MySQL Workbench con los resultados del Top 5)*
-![Query de Ganancias](https://tu-link-de-imagen-aqui.com/sql_result.png)
+![Query de Ganancias](images/top5_ganancias.png)
